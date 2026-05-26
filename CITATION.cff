@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: City of Detroit Office of Mobility Innovation DMP
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Steven
+    name-particle: Dr
+    family-names: Lavrenz
+    email: slavrenz@wayne.edu
+    affiliation: 'Wayne State University '
+    orcid: 'https://orcid.org/0000-0003-4439-7145'
+identifiers:
+  - type: doi
+    value: 10.48321/D149A55949
+repository-code: 'https://github.com/CityOfDetroit/OMI_DMP.git'
+url: 'https://data.detroitmi.gov'
+license: CC-BY-4.0
